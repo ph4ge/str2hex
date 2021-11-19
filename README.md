@@ -34,7 +34,7 @@ Under the same virtual environment, we need `pytest`:
 ```bash
 pip install pytest-cov
 ```
-Running the tests:
+Running the tests under the `str2hex/`:
 
 ```bash
 pytest
