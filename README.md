@@ -21,8 +21,16 @@ python3 -m venv venv/py3-00/
 ```
 
 Under the virtual environment:
+
+```bash
+pip3 install -r requirements.txt
+```
+
+or
+
 ```bash
 pip3 install fire
+pip3 install pytest-cov
 ```
 
 ## Running the tests
