@@ -12,6 +12,8 @@ python >=3.7 : because of the use of *.isascii()*
 
 fire
 
+pytest-cov
+
 ## Installation
 
 ```bash
