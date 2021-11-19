@@ -1,0 +1,12 @@
+.coverage
+.pytest_cache/
+__pycache__/
+*.py[cod]
+*$py.class
+src/__pycache__/
+*.py[cod]
+*$py.class
+tests/__pycache__/
+*.py[cod]
+*$py.class
+
