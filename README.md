@@ -14,6 +14,12 @@ fire
 
 ## Installation
 
+```bash
+git clone https://github.com/ph4ge/str2hex
+```
+
+Note: downloading the str2hex-main.zip needs to be renamed to str2hex
+
 It is preferable to install under a virtual environment([create python env](https://gist.github.com/ph4ge/97d2dbb6ca47434a8ee0e67aa47ad2c7))
 
 ```bash
