@@ -14,6 +14,7 @@ class StringStuff:
     """
     class to get a hex representation of a string, modify its endianness so it
     lands properly into memory
+    ISA: x86
     """
 
     def __init__(self, astr, se=False):
